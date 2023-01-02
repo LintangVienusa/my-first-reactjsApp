@@ -1,0 +1,20 @@
+.btn {
+    border: 2px solid #5f5f5f;
+    background-color: rgb(255, 255, 255);
+    color: #f9f9f9;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.btn-info {
+    border-color: #2196f3;
+    color: dodgerblue;
+    border-radius: 4px;
+}
+
+.btn-info:hover {
+    background: #2196f3;
+    color: #f9f9f9;
+}

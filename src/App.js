@@ -1,9 +1,9 @@
-import Acomponent from "./materi/Acomponent";
+import Bstyling from "./materi/Bstyling";
 
 function App() {
   return (
-    <div className="App">
-      <Acomponent />
+    <div>
+      <Bstyling />
     </div>
   );
 }

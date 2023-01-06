@@ -1,11 +1,10 @@
-import Bstyling from "./materi/Bstyling";
-import ReusableComponent from "./materi/Creusable";
+// import Bstyling from "./materi/Bstyling";
+import Rendering from "./materi/Drendering";
 
 function App() {
   return (
     <div>
-      <Bstyling />
-      <ReusableComponent />
+      <Rendering />
     </div>
   );
 }

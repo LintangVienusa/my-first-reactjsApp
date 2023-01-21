@@ -1,10 +1,11 @@
 // import Bstyling from "./materi/Bstyling";
-import Rendering from "./materi/Drendering";
+// import Rendering from "./materi/Drendering";
+import FormValidation from "./materi/Eform";
 
 function App() {
   return (
     <div>
-      <Rendering />
+      <FormValidation />
     </div>
   );
 }
